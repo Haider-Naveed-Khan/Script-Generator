@@ -77,3 +77,9 @@ Deploy as one Next.js project.
 
 Required env variable:
 - CLAUDE_TOKEN
+
+Github Repository Link:
+- (https://github.com/Haider-Naveed-Khan/Script-Generator)
+
+Live Link:
+- https://script-generator-two.vercel.app/
